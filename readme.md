@@ -1,2 +1,3 @@
 #Game Snake 
-Управление осуществляется с помощью клавиш ←, →, ↑, ↓.
+
+The control is carried out using the keys ←, →, ↑, ↓.
